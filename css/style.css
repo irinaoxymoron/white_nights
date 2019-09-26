@@ -343,7 +343,7 @@ h1,
 h2,
 h3,
 h4{
-    font-family: 'Suranna', serif;
+    font-family: 'Spectral SC', serif;
     color: #161d27;
     margin-top: 0;
     margin-bottom: 15px;
@@ -532,7 +532,7 @@ a.more-details .fa{
 .custom-heading.style-1 span,
 .custom-heading.style-2 span,
 .menu-item-price p{
-    font-family: 'Montez', cursive;
+    font-family: 'Marck Script', cursive;
     text-transform: none;
 }
 
