@@ -66,6 +66,11 @@
     src: url(../fonts/Montserrat-UltraLight.otf);
 }
 
+@font-face {
+    font-family: "AmadeusAP";
+    src: url(../fonts/AmadeusAP.otf);
+}
+
 /* ==========================================================================
     1. CSS RESET
     ========================================================================= */
@@ -2526,13 +2531,13 @@ ul#filters {
 ============================================================================= */
 
 .master-slider .pi-caption01 {
-    font-family: 'Suranna', serif;
+    font-family: 'Spectral SC', serif;
     color: #fff;
     font-size: 78px;
     line-height: 78px;
 }
 .master-slider .pi-caption02 {
-    font-family: 'Montez', cursive;
+    font-family: 'Marck Script', cursive;
     font-size: 72px;
     text-transform: none;
 }
